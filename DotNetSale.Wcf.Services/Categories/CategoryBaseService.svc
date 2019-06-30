@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DotNetSale.Wcf.Services.Categories.CategoryBaseService" CodeBehind="CategoryBaseService.svc.cs" %>
